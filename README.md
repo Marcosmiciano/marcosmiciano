@@ -1,6 +1,6 @@
 ### Olá !! Eu sou Marcos Miciano, estudante de devops cloud !!
 
-- 💼 Hoje trabalho com infraestrutura de redes
+- 💼 Hoje trabalho com infraestrutura de redes / Java Cloud
 - 📚 Estou estudando infraestrutura com código em processo migração para devops
 - 🧑 Pronouns: ele/dele
 
